@@ -1,4 +1,5 @@
 import React from "react";
+import AboutUs from "./components/AboutUs";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Services from "./components/Services";
@@ -16,7 +17,7 @@ function App() {
         <Services />
 
         {/* TODO: import <AboutUs/> component here */}
-
+        <AboutUs />
 
         {/* TODO: create a <Gallery/> component in src/components and import it here (OPTIONAL) */}
 
