@@ -1,6 +1,7 @@
 import React from "react";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
+import Services from "./components/Services";
 
 function App() {
   return (
@@ -12,7 +13,7 @@ function App() {
 
         <Hero />
         {/* TODO: import <Services/> component here */}
-
+        <Services />
 
         {/* TODO: import <AboutUs/> component here */}
 
