@@ -10,7 +10,7 @@ function Gallery() {
                     Our Gallery
                 </h1>
                 <h2
-                    className="text-center text-[#84795D] text-2xl section-para mb-10 font-semibold leading-7"
+                    className="text-center text-[#84795D] text-2xl section-para mb-5 font-semibold leading-7"
                 >
                     An event that gives back
                 </h2>

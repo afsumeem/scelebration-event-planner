@@ -22,7 +22,7 @@ function Services() {
         </p>
       </div>
 
-      <div className="bg-white grid grid-cols-3 gap-8 px-11 pt-11 pb-3.5 mx-2.5">
+      <div className="bg-white grid md:grid-cols-3  gap-8 px-11 pt-11 pb-3.5 mx-2.5">
         <div>
           {/* service column 1 */}
           <div>
@@ -42,7 +42,7 @@ function Services() {
         </div>
         {/* service column 2 */}
         <div className="flex justify-center items-center border-8 border-[#fff4f2]">
-          <div className="px-10">
+          <div className="p-10">
             <BiHeart className=" text-red-500 text-6xl block m-auto" />
             <h2 className="section-title text-center text-[#AD8C7D] text-[33px] py-5">Joint Couple Session</h2>
             <p
