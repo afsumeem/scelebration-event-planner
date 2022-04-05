@@ -10,8 +10,8 @@ function App() {
       <Navbar />
       <main>
         {/* TODO: import <Hero/> component here */}
-
         <Hero />
+
         {/* TODO: import <Services/> component here */}
         <Services />
 
