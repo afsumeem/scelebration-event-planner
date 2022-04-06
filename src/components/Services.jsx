@@ -43,7 +43,7 @@ function Services() {
         {/* service column 2 */}
         <div className="flex justify-center items-center border-8 border-[#fff4f2]">
           <div className="p-10">
-            <BiHeart className=" text-red-500 text-6xl block m-auto" />
+            <BiHeart className=" hover:scale-125 hover:duration-300 duration-300 text-red-500 text-6xl block m-auto" />
             <h2 className="section-title text-center text-[#AD8C7D] text-[33px] py-5">Joint Couple Session</h2>
             <p
               className="mb-7 service-para text-justify text-base text-[#54595F] font-medium"
