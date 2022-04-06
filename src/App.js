@@ -6,10 +6,15 @@ import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Services from "./components/Services";
 import Testimonial from "./components/Testimonial";
+import AnimatedCursor from "react-animated-cursor"
 
 function App() {
   return (
     <>
+      <AnimatedCursor
+        innerSize={15}
+        outerSize={10}
+      />
       {/* Navigation Bar */}
       <Navbar />
       <main>
