@@ -4,6 +4,7 @@ import Gallery from "./components/Gallery";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
 import Services from "./components/Services";
+import Testimonial from "./components/Testimonial";
 
 function App() {
   return (
@@ -24,7 +25,7 @@ function App() {
         <Gallery />
 
         {/* TODO: import <Testimonial/> component here */}
-
+        <Testimonial />
 
         {/* TODO: import <Footer/> component here */}
 
