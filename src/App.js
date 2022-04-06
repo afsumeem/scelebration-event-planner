@@ -1,5 +1,6 @@
 import React from "react";
 import AboutUs from "./components/AboutUs";
+import Footer from "./components/Footer";
 import Gallery from "./components/Gallery";
 import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
@@ -28,6 +29,7 @@ function App() {
         <Testimonial />
 
         {/* TODO: import <Footer/> component here */}
+        <Footer />
 
       </main>
     </>
