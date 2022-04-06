@@ -8,7 +8,7 @@ import { BiHeart } from 'react-icons/bi';
 
 function Services() {
   return (
-    <section className=" mb-24">
+    <section className="mb-24 container mx-auto">
       <div className="px-[60px] py-14">
         <h2
           className="text-7xl text-red-500 text-center font-medium tracking-tighter pb-[20px] px-[20px] section-title">

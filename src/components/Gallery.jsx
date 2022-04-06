@@ -13,11 +13,7 @@ import ModalImage from "react-modal-image";
 
 function Gallery() {
     return (
-        <section className="py-10">
-            <ModalImage
-
-                large={galleryImg3}
-            />
+        <section className="py-10 container mx-auto">
             {/* section title */}
             <div>
                 <h1 className="text-7xl text-red-500 text-center font-medium tracking-tighter pb-[20px] px-[20px] section-title"
@@ -29,8 +25,8 @@ function Gallery() {
                     An event that gives back
                 </h2>
             </div>
-            <div className="bg-white py-10">
-                <div className="grid md:grid-cols-3 gap-5 px-20 pt-5 pb-3.5 mx-2.5">
+            <div className="bg-white pt-5 pb-10">
+                <div className="grid md:grid-cols-3 gap-5 pb-3.5 px-14">
                     {/* gallery column 1 */}
                     <div>
                         <div className='galleryImg '>

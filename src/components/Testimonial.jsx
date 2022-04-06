@@ -17,7 +17,7 @@ function Testimonial() {
       </div>
 
       {/* section content */}
-      <div className="grid md:grid-cols-2 gap-2 px-2 pt-5 pb-3.5 mx-2.5">
+      <div className="grid md:grid-cols-2 gap-2  pt-5 pb-3.5 container mx-auto">
         <div className="bg-white mx-2 p-10 mb-8">
           <div className="flex flex-col md:flex-row items-center mb-5">
             <RiDoubleQuotesR className='text-7xl text-[#ad8c7d]' />

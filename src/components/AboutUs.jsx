@@ -17,7 +17,7 @@ function AboutUs() {
           professionals with heart!
         </h2>
         <p
-          className="mb-7 service-para text-justify text-base text-[#54595F] font-medium px-5"
+          className="mb-7 container mx-auto service-para text-justify text-base text-[#54595F] font-medium px-5"
         >
           We might get listed as Wedding Planner or Event Manager but we are above these mediocre terms. We’re Counselors. We do all what others do but in a different way. We simply instill life in your celebration and you will say, Superb Celebration it is. We’re a bunch of people who congregated on a same motto to create spectacular events. We are self-driven individuals who work as a gelled team. We create ideas out of nowhere and then brainstorm. From the main entrance design to the corner which will be least visible, we work on each and every part with a thorough plan.
         </p>

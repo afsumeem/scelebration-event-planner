@@ -3,16 +3,16 @@ import ScrollToTop from "react-scroll-to-top";
 
 function Footer() {
   return (
-    <footer className="mt-8">
+    <footer className="mt-8 ">
       <ScrollToTop smooth top="100" color="white" height="25" width="25"
         style={{ "backgroundColor": "#f45a5a", padding: "7px" }}
       />
-      <div className="footer-section py-16">
+      <div className="footer-section py-16 ">
 
-        <div className="flex flex-col md:flex-row items-center py-5 justify-around">
+        <div className="flex flex-col md:flex-row items-center py-5 justify-around container mx-auto">
 
           <div className="flex items-center flex-col justify-center footer-content py-5">
-            <div className="">
+            <div>
               <p className="text-[#ad8c7d] text-center text-xl section-para font-bold italic leading-3">+91 9829444440</p>
               <br />
               <p className="text-[#84795d] text-center  section-para text-4xl tracking-tight"> contact@scelebration.com</p>
