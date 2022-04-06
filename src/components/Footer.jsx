@@ -12,10 +12,10 @@ function Footer() {
         <div className="flex flex-col md:flex-row items-center py-5 justify-around container mx-auto">
 
           <div className="flex items-center flex-col justify-center footer-content py-5">
-            <div>
-              <p className="text-[#ad8c7d] text-center text-xl section-para font-bold italic leading-3">+91 9829444440</p>
+            <div className="text-center">
+              <a href="tel:919829444440" className="text-[#ad8c7d] text-xl section-para font-bold italic leading-3">+91 9829444440</a>
               <br />
-              <p className="text-[#84795d] text-center  section-para text-4xl tracking-tight"> contact@scelebration.com</p>
+              <a href="mailto:contact@scelebration.com" className="text-[#84795d]  section-para text-4xl tracking-tight"> contact@scelebration.com</a>
             </div>
           </div>
 
