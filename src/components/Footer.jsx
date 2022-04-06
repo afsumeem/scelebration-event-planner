@@ -32,16 +32,16 @@ function Footer() {
 
           <ul className="flex space-x-5 items-center justify-center footer-content-social py-5 ">
             <li>
-              <i className="fa-brands fa-instagram text-2xl hover:scale-110 transition-all hover:text-pink-900 cursor-pointer"></i>
+              <i className="fa-brands fa-instagram text-2xl text-[#786E56] hover:scale-110 transition-all hover:text-red-500  cursor-pointer"></i>
             </li>
             <li>
-              <i className="fa-brands fa-facebook text-2xl hover:scale-110 transition-all hover:text-pink-900 cursor-pointer"></i>
+              <i className="fa-brands fa-facebook text-2xl text-[#786E56] hover:scale-110 transition-all hover:text-red-500 cursor-pointer"></i>
             </li>
             <li>
-              <i className="fa-brands fa-twitter text-2xl hover:scale-110 transition-all hover:text-pink-900 cursor-pointer"></i>
+              <i className="fa-brands fa-twitter text-2xl text-[#786E56] hover:scale-110 transition-all hover:text-red-500  cursor-pointer"></i>
             </li>
             <li>
-              <i className="fa-brands fa-pinterest text-2xl hover:scale-110 transition-all hover:text-pink-900 cursor-pointer"></i>
+              <i className="fa-brands fa-pinterest text-2xl text-[#786E56] hover:scale-110 transition-all hover:text-red-500  cursor-pointer"></i>
             </li>
           </ul>
         </div>
